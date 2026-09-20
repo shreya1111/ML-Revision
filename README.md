@@ -1,183 +1,225 @@
 # 📚 Machine Learning Revision
 
-> A structured, hands-on Machine Learning revision repository covering mathematical foundations, core ML algorithms, model evaluation, preprocessing, and practical implementation with Python and scikit-learn.
+> **A 20-Day Comprehensive Machine Learning Revision Roadmap — Mathematics → Classical ML → Advanced ML → MLOps → Capstone**
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
-[![Google Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Scikit--learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
 ## 🎯 About
 
-**Machine Learning Revision** is a practical study repository built to strengthen both the **theoretical understanding** and **implementation skills** required for Machine Learning.
+**Machine Learning Revision** is a structured, hands-on **20-day Machine Learning curriculum** designed to build strong foundations in mathematics and classical ML while progressing toward advanced ML, explainability, MLOps, and an end-to-end capstone.
 
-The material follows a progressive path:
+**Roadmap:**
 
-**Mathematics → ML Fundamentals → Supervised Learning → Advanced ML → Interview Preparation**
+`Mathematics → ML Fundamentals → Classical ML → Unsupervised Learning → Advanced ML → MLOps → Capstone`
 
-Each notebook is designed to connect concepts with implementation through explanations, mathematical intuition, Python code, experiments, and revision questions.
+Each day contains a dedicated Jupyter Notebook with concepts, mathematical intuition, Python implementations, experiments, and revision-oriented material.
+
+### Designed for
+
+- 📖 Structured Machine Learning revision
+- 🧮 Mathematical foundations
+- 💻 Hands-on Python implementation
+- 🧠 ML interview preparation
+- ☁️ Google Colab experimentation
+- 🚀 Preparation for advanced ML and MLOps
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ 20-Day Learning Roadmap
 
 | Session | Topic | Google Colab |
 |---|---|---|
-| **Day 1** | Linear Algebra for ML | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day01_Linear_Algebra_for_ML.ipynb) |
-| **Day 2** | Calculus and Optimization | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day02_Calculus_and_Optimization.ipynb) |
-| **Day 3** | Probability and Statistics | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day03_Probability_and_Statistics.ipynb) |
-| **Day 4** | ML Fundamentals and Preprocessing | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day04_ML_Fundamentals_and_Preprocessing.ipynb) |
-| **Day 5** | Linear Regression and Regularization | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day05_Linear_Regression_and_Regularization.ipynb) |
-| **Day 6** | Classification Fundamentals | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day06_Classification_Fundamentals.ipynb) |
-| **Day 7** | Decision Trees and Random Forest | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day07_Decision_Trees_and_Random_Forest.ipynb) |
-| **Day 8** | SVM and Kernel Methods | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day08_SVM_and_Kernel_Methods.ipynb) |
-| **Day 9** | Ensemble Learning | [Open in Colab](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day09_Ensemble_Learning.ipynb) |
+| **Day 01** | Linear Algebra for ML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day01_Linear_Algebra_for_ML.ipynb) |
+| **Day 02** | Calculus & Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day02_Calculus_and_Optimization.ipynb) |
+| **Day 03** | Probability & Statistics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day03_Probability_and_Statistics.ipynb) |
+| **Day 04** | ML Fundamentals & Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day04_ML_Fundamentals_and_Preprocessing.ipynb) |
+| **Day 05** | Linear Regression & Regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day05_Linear_Regression_and_Regularization.ipynb) |
+| **Day 06** | Classification Fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day06_Classification_Fundamentals.ipynb) |
+| **Day 07** | Decision Trees & Random Forest | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day07_Decision_Trees_and_Random_Forest.ipynb) |
+| **Day 08** | SVM & Kernel Methods | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day08_SVM_and_Kernel_Methods.ipynb) |
+| **Day 09** | Ensemble Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day09_Ensemble_Learning.ipynb) |
+| **Day 10** | Model Evaluation & Cross-Validation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day10_Model_Evaluation_and_Cross_Validation.ipynb) |
+| **Day 11** | Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day11_Clustering.ipynb) |
+| **Day 12** | PCA & Dimensionality Reduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day12_PCA_and_Dimensionality_Reduction.ipynb) |
+| **Day 13** | Feature Engineering & Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day13_Feature_Engineering_and_Selection.ipynb) |
+| **Day 14** | Hyperparameter Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day14_Hyperparameter_Optimization.ipynb) |
+| **Day 15** | Imbalanced Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day15_Imbalanced_Learning.ipynb) |
+| **Day 16** | Anomaly Detection & Advanced ML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day16_Anomaly_Detection_and_Advanced_ML.ipynb) |
+| **Day 17** | Time Series Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day17_Time_Series_Machine_Learning.ipynb) |
+| **Day 18** | NLP & Recommendation Systems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day18_NLP_and_Recommendation_Systems.ipynb) |
+| **Day 19** | Explainable ML & MLOps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day19_Explainable_ML_and_MLOps.ipynb) |
+| **Day 20** | Master Revision & Capstone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day20_Master_Revision_and_Capstone.ipynb) |
+
+> **Colab:** The repository is public, so the buttons above can open the notebooks directly in Google Colab without requiring GitHub repository permissions.
 
 ---
 
-## ☁️ Run in Google Colab
+## 📚 Curriculum
 
-Every notebook can be opened directly in **Google Colab**, so you can study and execute the code without configuring a local Python environment.
+### Phase 1 — Mathematical Foundations
+**Days 01–03**
 
-> **Note:** Colab links use this repository's expected GitHub path: `shreya1111/ml-revision`. If you choose a different GitHub username or repository name, update the links in `README.md`.
+- Linear Algebra for ML
+- Calculus & Optimization
+- Probability & Statistics
+
+### Phase 2 — Machine Learning Foundations
+**Days 04–06**
+
+- ML Fundamentals & Preprocessing
+- Linear Regression & Regularization
+- Classification Fundamentals
+
+### Phase 3 — Core ML Algorithms
+**Days 07–09**
+
+- Decision Trees & Random Forest
+- SVM & Kernel Methods
+- Ensemble Learning
+
+### Phase 4 — Evaluation & Unsupervised Learning
+**Days 10–12**
+
+- Model Evaluation & Cross-Validation
+- Clustering
+- PCA & Dimensionality Reduction
+
+### Phase 5 — Practical ML
+**Days 13–15**
+
+- Feature Engineering & Selection
+- Hyperparameter Optimization
+- Imbalanced Learning
+
+### Phase 6 — Advanced ML
+**Days 16–18**
+
+- Anomaly Detection & Advanced ML
+- Time Series Machine Learning
+- NLP & Recommendation Systems
+
+### Phase 7 — Explainability, MLOps & Capstone
+**Days 19–20**
+
+- Explainable ML & MLOps
+- Master Revision & Capstone
 
 ---
 
-## 🚀 Getting Started Locally
-
-### 1. Clone
-
-```bash
-git clone https://github.com/shreya1111/ml-revision.git
-cd ml-revision
-```
-
-### 2. Create a virtual environment
-
-**Windows**
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-**Linux / macOS**
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch Jupyter
-
-```bash
-jupyter notebook
-```
-
-Then open the required notebook from `notebooks/`.
-
----
-
-## 🧠 Study Workflow
+## 🧠 Study Method
 
 ```text
-Learn
-  ↓
-Close the Notes
-  ↓
-Active Recall
-  ↓
-Implement
-  ↓
+Understand
+    ↓
+Learn the Mathematics
+    ↓
+Implement in Python
+    ↓
 Experiment
-  ↓
-Debug
-  ↓
-Explain
-  ↓
-Interview Question
+    ↓
+Evaluate
+    ↓
+Active Recall
+    ↓
+Explain the Concept
+    ↓
+Solve Interview Questions
 ```
 
-The objective is to move from **passive familiarity → active understanding → implementation ability**.
+The goal is to move from:
+
+**Passive Learning → Conceptual Understanding → Implementation → Problem Solving**
 
 ---
 
-## 🛠️ Tech Stack
-
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- SciPy
-- Scikit-learn
-- XGBoost
-- Google Colab
-
----
-
-## 📂 Repository Structure
+## 📂 Project Structure
 
 ```text
-ml-revision/
+ML Revision/
 │
 ├── notebooks/
-│   ├── Day01_*.ipynb
-│   ├── Day02_*.ipynb
-│   ├── ...
-│   └── Day09_*.ipynb
+│   ├── Day01_Linear_Algebra_for_ML.ipynb
+│   ├── Day02_Calculus_and_Optimization.ipynb
+│   ├── Day03_Probability_and_Statistics.ipynb
+│   ├── Day04_ML_Fundamentals_and_Preprocessing.ipynb
+│   ├── Day05_Linear_Regression_and_Regularization.ipynb
+│   ├── Day06_Classification_Fundamentals.ipynb
+│   ├── Day07_Decision_Trees_and_Random_Forest.ipynb
+│   ├── Day08_SVM_and_Kernel_Methods.ipynb
+│   ├── Day09_Ensemble_Learning.ipynb
+│   ├── Day10_Model_Evaluation_and_Cross_Validation.ipynb
+│   ├── Day11_Clustering.ipynb
+│   ├── Day12_PCA_and_Dimensionality_Reduction.ipynb
+│   ├── Day13_Feature_Engineering_and_Selection.ipynb
+│   ├── Day14_Hyperparameter_Optimization.ipynb
+│   ├── Day15_Imbalanced_Learning.ipynb
+│   ├── Day16_Anomaly_Detection_and_Advanced_ML.ipynb
+│   ├── Day17_Time_Series_Machine_Learning.ipynb
+│   ├── Day18_NLP_and_Recommendation_Systems.ipynb
+│   ├── Day19_Explainable_ML_and_MLOps.ipynb
+│   └── Day20_Master_Revision_and_Capstone.ipynb
 │
 ├── resources/
-│   └── Machine Learning Revision.pdf
+│   └── Machine_Learning_Revision.pdf
 │
+├── LICENSE
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-└── LICENSE
+└── .gitignore
 ```
 
 ---
 
-## 📈 Core Topics
+## 🧮 Mathematical Foundations
 
-### Mathematical Foundations
-- Linear Algebra
-- Vectors and Matrices
-- Matrix Operations
-- Rank and Norms
-- Derivatives and Gradients
-- Chain Rule
+### Linear Algebra
+
+- Scalars, vectors and matrices
+- Matrix operations
+- Dot products
+- Linear independence
+- Rank
+- Norms
+- Eigenvalues and eigenvectors
+- Matrix decomposition concepts
+
+### Calculus & Optimization
+
+- Derivatives
+- Partial derivatives
+- Gradients
+- Chain rule
+- Loss functions
 - Optimization
-- Gradient Descent
-- Probability
-- Bayes' Theorem
-- Random Variables
-- Variance and Covariance
-- Probability Distributions
+- Gradient descent
+- Learning rate
+- Convex optimization concepts
 
-### Machine Learning Fundamentals
-- AI vs ML vs Deep Learning
-- Supervised and Unsupervised Learning
-- Train / Validation / Test Splits
-- Overfitting and Underfitting
-- Bias–Variance Tradeoff
-- Missing-Value Handling
-- Outlier Detection
-- Encoding
-- Feature Scaling
-- Feature Engineering
-- Feature Selection
-- Pipelines
+### Probability & Statistics
+
+- Probability fundamentals
+- Conditional probability
+- Bayes' theorem
+- Random variables
+- Expected value
+- Variance
+- Covariance
+- Correlation
+- Probability distributions
+- Statistical concepts used in ML
+
+---
+
+## 🤖 Machine Learning Topics
 
 ### Supervised Learning
+
 - Linear Regression
 - Polynomial Regression
 - Ridge Regression
@@ -188,51 +230,242 @@ ml-revision/
 - Decision Trees
 - Random Forest
 - Support Vector Machines
+- Ensemble Methods
 
-### Ensemble Learning
-- Bagging
-- Boosting
-- AdaBoost
-- Gradient Boosting
-- XGBoost
-- LightGBM
-- CatBoost
+### Unsupervised Learning
 
-### Model Evaluation
+- K-Means Clustering
+- Hierarchical Clustering
+- Density-based methods
+- Dimensionality Reduction
+- Principal Component Analysis
+
+### Advanced ML
+
+- Feature Engineering
+- Feature Selection
+- Hyperparameter Optimization
+- Imbalanced Learning
+- Anomaly Detection
+- Time Series ML
+- NLP
+- Recommendation Systems
+- Explainable AI
+
+### ML Engineering
+
+- Model pipelines
+- Cross-validation
+- Experimentation
+- Model interpretation
+- MLOps fundamentals
+- Model lifecycle concepts
+- End-to-end ML workflows
+
+---
+
+## 📊 Model Evaluation
+
+### Regression
+
 - MAE
 - MSE
 - RMSE
 - R²
+- Residual analysis
+
+### Classification
+
 - Accuracy
 - Precision
 - Recall
-- F1-Score
+- F1-score
 - Confusion Matrix
 - ROC-AUC
+- Precision-Recall analysis
+
+### Validation
+
+- Train / Validation / Test split
+- K-Fold Cross-Validation
+- Stratified Cross-Validation
+- Data leakage
+- Overfitting
+- Underfitting
+- Bias–Variance trade-off
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| **Python** | Programming language |
+| **NumPy** | Numerical computing |
+| **Pandas** | Data manipulation |
+| **Matplotlib** | Data visualization |
+| **Seaborn** | Statistical visualization |
+| **SciPy** | Scientific computing |
+| **Scikit-learn** | Machine Learning |
+| **XGBoost** | Gradient boosting |
+| **Jupyter Notebook** | Interactive development |
+| **Google Colab** | Cloud notebook execution |
+
+---
+
+## 🚀 Getting Started
+
+### ☁️ Option 1 — Google Colab
+
+1. Select a day from the roadmap.
+2. Click **Open in Colab**.
+3. Run the notebook directly in your browser.
+
+No local Python setup is required.
+
+### 💻 Option 2 — Run Locally
+
+```bash
+git clone https://github.com/shreya11111/ml-revision.git
+cd ml-revision
+```
+
+Create a virtual environment.
+
+**Windows**
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+**Linux / macOS**
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter:
+
+```bash
+jupyter notebook
+```
+
+Open the required notebook from `notebooks/`.
+
+---
+
+## 📦 Dependencies
+
+Install the complete environment with:
+
+```bash
+pip install -r requirements.txt
+```
+
+Main libraries:
+
+```text
+NumPy
+Pandas
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+XGBoost
+Jupyter
+```
+
+---
+
+## 📖 Reference Material
+
+The `resources/` directory contains the consolidated:
+
+**Machine Learning Revision PDF**
+
+Use the PDF for quick-reference revision and the notebooks for interactive learning, implementation, and experimentation.
 
 ---
 
 ## 🎓 Interview Preparation
 
-Use the notebooks for interview revision around:
+The roadmap also targets practical ML interview preparation.
+
+Key areas include:
 
 - Algorithm intuition
 - Mathematical foundations
 - Model assumptions
-- Bias vs variance
+- Bias vs Variance
+- Overfitting and Underfitting
+- Feature engineering
 - Model selection
-- Hyperparameters
 - Evaluation metrics
-- Practical ML scenarios
-- Common interview questions
+- Hyperparameter tuning
+- Data leakage
+- Cross-validation
+- Explainability
+- MLOps concepts
+
+A useful revision pattern:
+
+```text
+What is it?
+    ↓
+Why does it work?
+    ↓
+How does it work mathematically?
+    ↓
+How do I implement it?
+    ↓
+When should I use it?
+    ↓
+What are its limitations?
+    ↓
+How would I explain it in an interview?
+```
 
 ---
 
-## 📚 Reference Material
+## 🏆 Day 20 — Master Revision & Capstone
 
-The `resources/` directory contains the consolidated Machine Learning revision PDF.
+The final session brings the roadmap together through an end-to-end Machine Learning workflow:
 
-Use the **PDF for quick revision** and the **notebooks for hands-on learning and implementation**.
+```text
+Problem Definition
+       ↓
+Data Collection
+       ↓
+EDA
+       ↓
+Preprocessing
+       ↓
+Feature Engineering
+       ↓
+Model Selection
+       ↓
+Training
+       ↓
+Cross-Validation
+       ↓
+Hyperparameter Optimization
+       ↓
+Evaluation
+       ↓
+Explainability
+       ↓
+Deployment / MLOps
+```
+
+The objective is to apply the concepts from the previous 19 days to a complete ML problem.
 
 ---
 
@@ -242,13 +475,16 @@ Contributions are welcome.
 
 You can contribute by:
 
-1. Adding new ML topics
-2. Improving explanations
-3. Adding practical implementations
-4. Fixing errors
-5. Adding interview questions
-6. Improving visualizations
-7. Adding experiments or datasets
+- Adding new notebooks
+- Improving explanations
+- Correcting mathematical or implementation errors
+- Adding visualizations
+- Adding practical ML examples
+- Improving interview questions
+- Adding experiments or datasets
+- Extending the MLOps section
+
+### Contribution workflow
 
 ```bash
 git checkout -b feature/new-topic
@@ -261,11 +497,13 @@ Then open a Pull Request.
 
 ---
 
-## 📜 License
+## 📌 Learning Philosophy
 
-This project is licensed under the **MIT License**.
+This repository focuses on **understanding over memorization**.
 
-See [`LICENSE`](LICENSE) for details.
+> **Learn → Derive → Implement → Experiment → Evaluate → Explain**
+
+Machine Learning becomes easier to reason about when algorithms are connected to their mathematical foundations and practical behavior.
 
 ---
 
@@ -273,4 +511,12 @@ See [`LICENSE`](LICENSE) for details.
 
 If this repository helps with your Machine Learning preparation, consider giving it a ⭐ on GitHub.
 
-**Learn → Recall → Code → Debug → Explain → Repeat.**
+**20 Days. One roadmap. Stronger ML fundamentals.**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+See [`LICENSE`](LICENSE) for details.
