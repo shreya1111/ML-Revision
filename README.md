@@ -35,26 +35,26 @@ Each day contains a dedicated Jupyter Notebook with concepts, mathematical intui
 
 | Session | Topic | Google Colab |
 |---|---|---|
-| **Day 01** | Linear Algebra for ML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day01_Linear_Algebra_for_ML.ipynb) |
-| **Day 02** | Calculus & Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day02_Calculus_and_Optimization.ipynb) |
-| **Day 03** | Probability & Statistics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day03_Probability_and_Statistics.ipynb) |
-| **Day 04** | ML Fundamentals & Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day04_ML_Fundamentals_and_Preprocessing.ipynb) |
-| **Day 05** | Linear Regression & Regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day05_Linear_Regression_and_Regularization.ipynb) |
-| **Day 06** | Classification Fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day06_Classification_Fundamentals.ipynb) |
-| **Day 07** | Decision Trees & Random Forest | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day07_Decision_Trees_and_Random_Forest.ipynb) |
-| **Day 08** | SVM & Kernel Methods | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day08_SVM_and_Kernel_Methods.ipynb) |
-| **Day 09** | Ensemble Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day09_Ensemble_Learning.ipynb) |
-| **Day 10** | Model Evaluation & Cross-Validation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day10_Model_Evaluation_and_Cross_Validation.ipynb) |
-| **Day 11** | Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day11_Clustering.ipynb) |
-| **Day 12** | PCA & Dimensionality Reduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day12_PCA_and_Dimensionality_Reduction.ipynb) |
-| **Day 13** | Feature Engineering & Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day13_Feature_Engineering_and_Selection.ipynb) |
-| **Day 14** | Hyperparameter Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day14_Hyperparameter_Optimization.ipynb) |
-| **Day 15** | Imbalanced Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day15_Imbalanced_Learning.ipynb) |
-| **Day 16** | Anomaly Detection & Advanced ML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day16_Anomaly_Detection_and_Advanced_ML.ipynb) |
-| **Day 17** | Time Series Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day17_Time_Series_Machine_Learning.ipynb) |
-| **Day 18** | NLP & Recommendation Systems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day18_NLP_and_Recommendation_Systems.ipynb) |
-| **Day 19** | Explainable ML & MLOps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day19_Explainable_ML_and_MLOps.ipynb) |
-| **Day 20** | Master Revision & Capstone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya11111/ml-revision/blob/main/notebooks/Day20_Master_Revision_and_Capstone.ipynb) |
+| **Day 01** | Linear Algebra for ML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day01_Linear_Algebra_for_ML.ipynb) |
+| **Day 02** | Calculus & Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day02_Calculus_and_Optimization.ipynb) |
+| **Day 03** | Probability & Statistics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day03_Probability_and_Statistics.ipynb) |
+| **Day 04** | ML Fundamentals & Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day04_ML_Fundamentals_and_Preprocessing.ipynb) |
+| **Day 05** | Linear Regression & Regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day05_Linear_Regression_and_Regularization.ipynb) |
+| **Day 06** | Classification Fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day06_Classification_Fundamentals.ipynb) |
+| **Day 07** | Decision Trees & Random Forest | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day07_Decision_Trees_and_Random_Forest.ipynb) |
+| **Day 08** | SVM & Kernel Methods | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day08_SVM_and_Kernel_Methods.ipynb) |
+| **Day 09** | Ensemble Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day09_Ensemble_Learning.ipynb) |
+| **Day 10** | Model Evaluation & Cross-Validation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day10_Model_Evaluation_and_Cross_Validation.ipynb) |
+| **Day 11** | Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day11_Clustering.ipynb) |
+| **Day 12** | PCA & Dimensionality Reduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day12_PCA_and_Dimensionality_Reduction.ipynb) |
+| **Day 13** | Feature Engineering & Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day13_Feature_Engineering_and_Selection.ipynb) |
+| **Day 14** | Hyperparameter Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day14_Hyperparameter_Optimization.ipynb) |
+| **Day 15** | Imbalanced Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day15_Imbalanced_Learning.ipynb) |
+| **Day 16** | Anomaly Detection & Advanced ML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day16_Anomaly_Detection_and_Advanced_ML.ipynb) |
+| **Day 17** | Time Series Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day17_Time_Series_Machine_Learning.ipynb) |
+| **Day 18** | NLP & Recommendation Systems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day18_NLP_and_Recommendation_Systems.ipynb) |
+| **Day 19** | Explainable ML & MLOps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day19_Explainable_ML_and_MLOps.ipynb) |
+| **Day 20** | Master Revision & Capstone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreya1111/ml-revision/blob/main/notebooks/Day20_Master_Revision_and_Capstone.ipynb) |
 
 > **Colab:** The repository is public, so the buttons above can open the notebooks directly in Google Colab without requiring GitHub repository permissions.
 
@@ -326,7 +326,7 @@ No local Python setup is required.
 ### 💻 Option 2 — Run Locally
 
 ```bash
-git clone https://github.com/shreya11111/ml-revision.git
+git clone https://github.com/shreya1111/ml-revision.git
 cd ml-revision
 ```
 
